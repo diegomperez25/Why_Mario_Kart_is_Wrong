@@ -1,0 +1,2 @@
+# Why-Mario-Kart-is-Wrong-An-Analysis-on-Slipstream-Dynamics
+In 1996, Mario Kart 64 introduced slipstreaming to the brand. This mechanism allows users who are trailing other racers to experience a slight boost after a certain amount of time. In this project, I will investigate slipstream dynamics, how researchers model this process, and how much Mario Kart’s drafting mechanism strays from physical reality.
